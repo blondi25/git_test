@@ -1,0 +1,1 @@
+This is blondi25 first git project!
